@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<inherits name="com.google.gwt.user.User" />
+	<inherits name="org.eclipse.emf.ecore.EcoreEdit" />	
+	<inherits name="org.eclipse.gmf.runtime.notation.Notation" />
+	<inherits name="org.eclipse.Gef" />
+
+    <source path="commands"/>
+    <source path="edit"/>
+    <source path="figures"/>
+    <source path="handles"/>
+    <source path="parts"/>
+    <source path="requests"/>
+    <source path="services"/>
+    <source path="ui"/>
+    <source path="validation"/>
+</module>
